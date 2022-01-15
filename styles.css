@@ -1,0 +1,133 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+/* Main Content */
+#main-content{
+    padding: 7% 10%;
+}
+
+.card{
+    color: hsl(215, 51%, 70%);
+    height: 600px;
+    width: 340px;
+    margin: 0 auto;
+    padding: 1.25em;
+    font-size: 18px;
+    text-align: left;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 15px;
+    box-shadow: 0 30px 0 15px hsl(217, 54%, 10%)
+}
+
+.card-img-top{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.card-body{
+    padding: 0;
+    margin-top: 1.5em;
+}
+
+.card-title{
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+
+.eth-container{
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.days-container{
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.card-text{
+    font-weight: 300;
+}
+
+.card-info-img{
+    margin-right: 0.5rem
+}
+
+.card-info-text{
+    font-size: 1rem;
+}
+
+.eth-text{
+    font-weight: 600;
+    color: hsl(178, 100%, 50%);
+}
+
+
+.card-footer{
+    padding: 0;
+    background: none;
+    border-top: 2px solid hsl(215, 32%, 27%);
+}
+
+.card-avatar-img{
+    width: 2em;
+    margin: 1em;
+    margin-left: 0;
+    vertical-align: middle;
+    border-radius: 100%;
+    border: 1px solid white;
+}
+
+.card-footer-text{
+    vertical-align: middle;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+/* Hover states */
+
+.hover-text{
+    text-decoration: none;
+    color: white;
+}
+
+.hover-text:hover{
+    color:hsl(178, 100%, 50%);
+}
+
+.card-img-link:hover{
+    background-color: hsl(178, 100%, 50%);
+}
+
+/* Attribution */
+#attribution{
+    background-color: hsl(216, 50%, 16%);
+    padding: 30px;
+    width: 100%;
+    margin-top: 200px;
+    position: relative;
+    bottom: 0;
+}
+
+#attribution p{
+    margin: 0.5em;
+}
+
+#attribution p a{
+    color: inherit;
+    text-decoration: none;
+    font-weight: 600;
+}
