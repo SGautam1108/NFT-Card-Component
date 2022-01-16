@@ -96,4 +96,3 @@ In future, I will be reworking this project with basic flexbox and also with tai
 ## Acknowledgments
 
 A Special thanks to Angela Yu, Course Instructor for "Full stack development" course at Udemy. Her course has been of a great help for me to start out with these projects on my own. Cheers to y'all!!
-
