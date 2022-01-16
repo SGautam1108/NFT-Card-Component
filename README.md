@@ -35,8 +35,8 @@ My users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SGautam1108/NFT-Card-Component)
-- Live Site URL: [Add live site URL here](https://sgautam1108.github.io/NFT-Card-Component/)
+- Solution URL: [Solution URL](https://github.com/SGautam1108/NFT-Card-Component)
+- Live Site URL: [Live site](https://sgautam1108.github.io/NFT-Card-Component/)
 
 ## My process
 
